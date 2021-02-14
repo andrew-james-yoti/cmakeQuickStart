@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/MathsFunctions/MathsFunctions.h
+
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/MathsFunctions/myadd.cpp
+MathsFunctions.h
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/MathsFunctions/MathsFunctions.h
+

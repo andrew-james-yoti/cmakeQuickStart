@@ -1,0 +1,7 @@
+// the configured options and settings for HelloWorld
+#define HelloWorld_VERSION_MAJOR @HelloWorld_VERSION_MAJOR@
+#define HelloWorld_VERSION_MINOR @HelloWorld_VERSION_MINOR@
+// #cmakedefine USE_MYMATH
+#ifdef USE_MYMATH
+#  include "MathsFunctions/MathsFunctions.h"
+#endif

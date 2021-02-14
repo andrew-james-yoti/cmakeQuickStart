@@ -1,0 +1,6 @@
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/CMakeFiles/rebuild_cache.dir
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/CMakeFiles/edit_cache.dir
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/CMakeFiles/HelloWorld.dir
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/MathsFunctions/CMakeFiles/rebuild_cache.dir
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/MathsFunctions/CMakeFiles/edit_cache.dir
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/MathsFunctions/CMakeFiles/MathsFunctions.dir

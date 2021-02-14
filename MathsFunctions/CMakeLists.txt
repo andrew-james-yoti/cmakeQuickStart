@@ -1,0 +1,1 @@
+add_library(MathsFunctions myadd.cpp)
