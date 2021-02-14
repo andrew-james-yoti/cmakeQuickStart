@@ -10,6 +10,11 @@
 cmake --version
 ```
 
+### Tutorial
+
+- [Tutorial Files](https://gitlab.kitware.com/cmake/cmake/-/tree/master/Help/guide/tutorial)
+- [CMake Tutorial](https://cmake.org/cmake/help/v3.19/guide/tutorial/index.html)
+
 ---
 
 ## Setup
