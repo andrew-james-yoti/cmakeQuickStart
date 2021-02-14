@@ -46,7 +46,6 @@ configure_file(HelloWorld.h.in HelloWorld.h)
 if(USE_MYMATH)
   add_subdirectory(MathsFunctions)
   list(APPEND EXTRA_LIBS MathsFunctions)
-  list(APPEND EXTRA_INCLUDES "${PROJECT_SOURCE_DIR}/MathsFunctions")
 endif()
 
 # add the executable
@@ -58,5 +57,4 @@ target_include_directories(
     ${This}
     PUBLIC
     "${PROJECT_BINARY_DIR}"
-    ${EXTRA_INCLUDES}
 )
