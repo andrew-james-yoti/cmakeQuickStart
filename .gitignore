@@ -1,8 +1,12 @@
 build/**
 CMakeFiles/**
+MathsFunctions/CMakeFiles/**
 .vscode/**
 googletest/**
 cmake_install.cmake
+MathsFunctions/cmake_install.cmake
 *Makefile
+MathsFunctions/*Makefile
 *HelloWorld
 *CMakeCache.txt
+MathsFunctions/libMathsFunctions.a
