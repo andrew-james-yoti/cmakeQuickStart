@@ -3,4 +3,6 @@ CMakeFiles/**
 .vscode/**
 googletest/**
 cmake_install.cmake
-Makefile
+*Makefile
+*HelloWorld
+CMakeCache.txt
