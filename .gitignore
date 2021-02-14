@@ -5,4 +5,4 @@ googletest/**
 cmake_install.cmake
 *Makefile
 *HelloWorld
-CMakeCache.txt
+*CMakeCache.txt
