@@ -10,3 +10,4 @@ MathsFunctions/*Makefile
 *HelloWorld
 *CMakeCache.txt
 MathsFunctions/libMathsFunctions.a
+installdir

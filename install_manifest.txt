@@ -1,0 +1,4 @@
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/./installdir/bin/HelloWorld
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/./installdir/include/HelloWorldConfig.h
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/./installdir/lib/libMathsFunctions.a
+/Users/jamesan/MyDevelopment/cplusplus/cmakeQuickStart/./installdir/include/MathsFunctions.h
